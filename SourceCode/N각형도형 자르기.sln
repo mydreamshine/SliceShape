@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "N각형도형 자르기", "N각형도형 자르기.vcxproj", "{BE3953C4-4360-43AD-A4C4-B308F07621AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3953C4-4360-43AD-A4C4-B308F07621AD}.Debug|x64.ActiveCfg = Debug|x64
+		{BE3953C4-4360-43AD-A4C4-B308F07621AD}.Debug|x64.Build.0 = Debug|x64
+		{BE3953C4-4360-43AD-A4C4-B308F07621AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{BE3953C4-4360-43AD-A4C4-B308F07621AD}.Debug|x86.Build.0 = Debug|Win32
+		{BE3953C4-4360-43AD-A4C4-B308F07621AD}.Release|x64.ActiveCfg = Release|x64
+		{BE3953C4-4360-43AD-A4C4-B308F07621AD}.Release|x64.Build.0 = Release|x64
+		{BE3953C4-4360-43AD-A4C4-B308F07621AD}.Release|x86.ActiveCfg = Release|Win32
+		{BE3953C4-4360-43AD-A4C4-B308F07621AD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C92F52A8-B301-4B2F-8E25-5391F99BD13C}
+	EndGlobalSection
+EndGlobal
